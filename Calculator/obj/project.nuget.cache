@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GO/ecRx+YjfZZp+xwxyNokWXfw8kOFrvEiLisebiQksdxodvXtjhJlHfJDJlIZGEpe7aay+n8Cc4vL0q/Su2Yg==",
+  "success": true,
+  "projectFilePath": "I:\\Проги\\education-c#\\ConsoleCalc\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goner\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
