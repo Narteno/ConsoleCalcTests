@@ -2,7 +2,7 @@ name: .NET
 
 on:
   push:
-    branches: [ feat/testw ]
+    branches: [ main ]
 
 jobs:
   build:
